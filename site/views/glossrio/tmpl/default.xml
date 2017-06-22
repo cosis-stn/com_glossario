@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<layout title="COM_GLOSSARIOCOSIS_TITLE_LIST_VIEW_GLOSSRIO" option="View">
+        <message>
+                        <![CDATA[COM_GLOSSARIOCOSIS_TITLE_LIST_VIEW_GLOSSRIO_DESC]]>
+        </message>
+	</layout>
+	<fields name="params" >
+		<fieldset name="request">
+                        <!-- Campo renderizado nas configurações do menu  -->
+			<field name="category"
+				type="category"
+                                extension="com_glossariocosis"
+                                show_root="false"
+                                required="true"
+				default=""
+				label="Categoria"
+				description=""
+			/>
+		</fieldset>
+	</fields>        
+</metadata>

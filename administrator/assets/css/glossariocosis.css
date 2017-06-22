@@ -1,0 +1,23 @@
+.icon-48-glossrio {
+    background-image: url(../images/l_glossrio.png);
+    padding-left:60px!important;
+}
+
+.icon-48-glossarios {
+    background-image: url(../images/l_glossrio.png);
+    padding-left:60px!important;
+}
+
+.color-box-glossrio { 
+    float: left;      
+    width: 15px;      
+    height: 15px;      
+    margin-right: 5px;      
+    border: 1px solid rgba(0, 0, 0, .2);
+}
+
+
+
+.other-filters{
+    padding: 0 14px;
+}
